@@ -118,8 +118,10 @@ hr {
 
 .info-part2 {
     width: 55%;
+    padding-top: 30px;
 }
 
 .head-size1 {
-    font-size: ;
+    font-size: 35px;
+    margin-bottom: 20px;
 }
