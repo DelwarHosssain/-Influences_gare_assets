@@ -54,7 +54,7 @@
     background-image: url(../images/Circle\ design.svg);
     width: 50%;
     background-repeat: no-repeat;
-    padding-bottom: 150px;
+    padding-bottom: 70px;
     margin-left: 100px;
 }
 
@@ -62,4 +62,25 @@
     width: 70%;
     padding: 50px 0 0 30px;
     position: relative;
+}
+
+.main-fast-sec {
+    margin-top: 20px;
+}
+
+hr {
+    color: #E5EAF0;
+}
+
+.totel-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.totel-logo img {
+    padding: 5px 25px 5px 25px;
+}
+
+.totel-hr {
+    margin: 0 140px 30px 140px;
 }
